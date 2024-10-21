@@ -1,3 +1,12 @@
+/*
+ * Create a json file named config.json in the config folder
+ * inside the json file add the following:
+ * {
+ *  "token": "YOUR_BOT_TOKEN",
+ *  "prefix": "YOUR_BOT_PREFIX"
+ * }
+ */
+
 using Newtonsoft.Json;
 
 namespace EhhhhBot.config;
