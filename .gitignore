@@ -1,0 +1,7 @@
+.idea/
+.vs/
+*.sln
+*.sln.DotSettings.user
+bin/
+obj/
+config.json
